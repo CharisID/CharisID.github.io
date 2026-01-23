@@ -1,5 +1,7 @@
 # Charis Web Services
 
+![Charis Web Services](/cover.jpg)
+
 Secure, server-side proxy endpoints for third-party APIs, built with charm, beauty, and a touch of creativity ✨
 
 This backend service allows portfolios and personal websites to safely integrate external services without exposing API keys or tokens client-side.
