@@ -103,7 +103,7 @@ Secure Spotify data: top tracks and currently playing (with Last.fm fallback for
 
 ## Documentation
 
-Detailed integration guides with code examples for Next.js, Gatsby, and Astro:
+Detailed integration guides with code examples:
 
 - [Cloudinary Media Management](https://charisprod.xyz/apis/cloudinary)
 - [Weather Data Fetching](https://charisprod.xyz/apis/weather)
